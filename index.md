@@ -1,5 +1,5 @@
 # Home
 
-Privacy Policy: https://lukenamop.github.io/server-supervisor/privacy-policy
+Privacy Policy: <a href="https://lukenamop.github.io/server-supervisor/privacy-policy">https://lukenamop.github.io/server-supervisor/privacy-policy</a>
 
-Terms of Service: https://lukenamop.github.io/server-supervisor/terms-of-service
+Terms of Service: <a href="https://lukenamop.github.io/server-supervisor/terms-of-service">https://lukenamop.github.io/server-supervisor/terms-of-service</a>
